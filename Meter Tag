@@ -1,0 +1,2 @@
+<label for="meter">Available Space: </label>
+    <meter value="20" max="100"></meter>
